@@ -34,3 +34,7 @@ Notes web application on js
 
 ![alt text](https://github.com/BeefMILF/NotesApp/blob/main/MakeNotesDiagram.png)
 
+## Authors
+
+* **Bolotov Heorgii** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
+* **Moroz Denis** - *Initial work* - [HPMortys](https://github.com/HPMortys)
