@@ -30,3 +30,7 @@ Notes web application on js
 
 ## Workflow діаграми 
 
+Діаграма користування(редагування, перегляд) додатком
+
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/MakeNotesDiagram.png)
+
