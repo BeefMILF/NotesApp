@@ -38,6 +38,9 @@ Notes web application on js
 * Javascript/TypeScript
 
 ## Workflow діаграми 
+Діаграма авторизацї користувача
+
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/EntryDiagram.png)
 
 Діаграма користування(редагування, перегляд) додатком
 
