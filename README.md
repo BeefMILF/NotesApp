@@ -49,6 +49,10 @@ Notes web application on js
 
 ![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/MakeNotesDiagram.png)
 
+## Timeline
+
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/TimeLine.png)
+
 ## Authors
 
 * **Bolotov Heorgii** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
