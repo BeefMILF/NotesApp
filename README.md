@@ -43,11 +43,11 @@ Notes web application on js
 ## Workflow діаграми 
 Діаграма авторизацї користувача
 
-![alt text](https://github.com/BeefMILF/NotesApp/blob/main/EntryDiagram.png)
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/EntryDiagram.png)
 
 Діаграма користування(редагування, перегляд) додатком
 
-![alt text](https://github.com/BeefMILF/NotesApp/blob/main/MakeNotesDiagram.png)
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/MakeNotesDiagram.png)
 
 ## Authors
 
