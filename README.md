@@ -37,7 +37,7 @@ Notes web application on js
   **React** - відмінний JavaScript фреймворк, використовуючи його можна легко створювати прості та тяжкі динамічні додатки. Одним з основних плюсів є використання так званого віртуального DOM, це може значно пришвидшувати роботу веб-додатку. Також React легкий у вивченні, React набагато легше вчиться зважаючи на простоту його синтаксису.
   
 * Express 
-* IndexedDB/MongoDB/LocalStorage 
+* IndexedDB/**MongoDB**/LocalStorage 
 * Javascript/TypeScript
 
 ## Workflow діаграми 
