@@ -55,6 +55,10 @@ Notes web application on js
 
 ![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/TimeLine.png)
 
+## UI design
+
+![alt text](https://github.com/BeefMILF/NotesApp/blob/main/diagrams/FigmaUI.png)
+
 ## Authors
 
 * **Bolotov Heorgii** - *Initial work* - [BeefMILF](https://github.com/BeefMILF)
